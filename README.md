@@ -9,7 +9,7 @@ Currently it documents the following information.
 * Future Full-Stack Accomplishments
 * Contact Information
 
-[URL] (https://https://bmowrey729.github.io/Portfolio/)
+[URL] (https://bmowrey729.github.io/Portfolio/)
 
 ![Screen Shot ](assets/images/FullStack.PNG)
 
