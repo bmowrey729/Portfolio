@@ -9,5 +9,5 @@ Currently it documents the following information.
 * Future Full-Stack Accomplishments
 * Contact Information
 
-![Screen Shot ](Assets)
+![Screen Shot ](assets\images\FullStack.PNG)
 
