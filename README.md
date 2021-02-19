@@ -8,3 +8,6 @@ Currently it documents the following information.
 * Prior IT Accomplishments
 * Future Full-Stack Accomplishments
 * Contact Information
+
+![Screen Shot ](Assets)
+
