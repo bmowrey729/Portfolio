@@ -88,8 +88,8 @@ p {
    
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
-    width: 100%;
+    height: 400px;
+    width: auto;
     font-family: Arial, sans-serif;
     background-color: #edc7b7;
     color: #ac3b61;
@@ -106,7 +106,8 @@ p {
 .Full-Stack-Accomplishments h2 {
     margin-bottom: 20px;
     font-size: 30px;
-    display: flex;
+    
+    text-align: center;
 
 }
 
@@ -121,10 +122,16 @@ p {
     flex-wrap: wrap;
 }
 .Full-Stack-Accomplishments ul{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+    
+   
 }  
+
+.fs-img {
+    padding-bottom: 10px;
+}
+#row1 {
+    background-color: wheat;
+}
 
 .footer {
     padding: 30px;    
